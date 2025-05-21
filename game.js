@@ -219,4 +219,4 @@ function drawStar(ctx, cx, cy, spikes, outerRadius, innerRadius) {
   let step = Math.PI / spikes;
 
   ctx.beginPath();
-  ctx.moveTo(cx,
+  ctx.moveTo(cx)}
